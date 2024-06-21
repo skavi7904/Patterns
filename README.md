@@ -13,22 +13,28 @@ Welcome to the Patterns Problem Solving repository! This repository contains a c
 
 ## Patterns Implemented
 
-1. **Square of Stars** (Method: `n1`)
-2. **Right-angled Triangle of Stars** (Method: `n2`)
-3. **Right-angled Triangle of Numbers** (Method: `n3`)
-4. **Right-angled Triangle with Repeated Numbers** (Method: `n4`)
-5. **Inverted Right-angled Triangle of Stars** (Method: `n5`)
-6. **Inverted Right-angled Triangle of Numbers** (Method: `n6`)
-7. **Pyramid of Stars** (Method: `n7`)
-8. **Inverted Pyramid of Stars** (Method: `n8`)
-9. **Combined Pyramid and Inverted Pyramid of Stars** (Method: `n9`)
-10. **Diamond of Stars** (Method: `n10`)
-11. **Binary Triangle** (Method: `n11`)
-12. **Symmetrical Number Triangle** (Method: `n12`)
-13. **Incremental Numbers Triangle** (Method: `n13`)
-14. **Alphabet Triangle** (Method: `n14`)
-15. **Inverted Alphabet Triangle** (Method: `n15`)
-16. **Repeated Alphabets Triangle** (Method: `n16`)
+1. **Square of Stars (Method: `n1`)**
+2. **Right-angled Triangle of Stars (Method: `n2`)**
+3. **Right-angled Triangle of Numbers (Method: `n3`)**
+4. **Right-angled Triangle with Repeated Numbers (Method: `n4`)**
+5. **Inverted Right-angled Triangle of Stars (Method: `n5`)**
+6. **Inverted Right-angled Triangle of Numbers (Method: `n6`)**
+7. **Pyramid of Stars (Method: `n7`)**
+8. **Inverted Pyramid of Stars (Method: `n8`)**
+9. **Combined Pyramid and Inverted Pyramid of Stars (Method: `n9`)**
+10. **Diamond of Stars (Method: `n10`)**
+11. **Binary Triangle (Method: `n11`)**
+12. **Symmetrical Number Triangle (Method: `n12`)**
+13. **Incremental Numbers Triangle (Method: `n13`)**
+14. **Alphabet Triangle (Method: `n14`)**
+15. **Inverted Alphabet Triangle (Method: `n15`)**
+16. **Repeated Alphabets Triangle (Method: `n16`)**
+17. **Alphabet Pyramid (Method: `n17`)**
+18. **Inverted Alphabet Pyramid (Method: `n18`)**
+19. **Sandglass Star Pattern (Method: `n19`)**
+20. **Hourglass Star Pattern (Method: `n20`)**
+21. **Hollow Square Pattern (Method: `n21`)**
+22. **Layered Numbers Square Pattern (Method: `n22`)**
 
 ## Features
 
@@ -41,15 +47,15 @@ Welcome to the Patterns Problem Solving repository! This repository contains a c
 
 To get started, clone this repository to your local machine using:
 
-```sh
+```bash
 git clone https://github.com/skavi7904/Patterns.git
 ```
 
 ## How to Use
 
-1. **Navigate** to the directory of interest.
-2. **Run** the Java files using your preferred IDE or command line.
-3. **Experiment** by modifying the code to create your own patterns.
+1. Navigate to the directory of interest.
+2. Run the Java files using your preferred IDE or command line.
+3. Experiment by modifying the code to create your own patterns.
 
 ## Contributing
 
@@ -57,8 +63,6 @@ Contributions are welcome! If you have a pattern problem you'd like to add, plea
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 Happy coding and enjoy solving patterns!
